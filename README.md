@@ -4,7 +4,3 @@ This is my first machine learning model. The purpose of this model is to use as 
 
 Research Questions can be discussed as follows.
 
-
-
-
-
